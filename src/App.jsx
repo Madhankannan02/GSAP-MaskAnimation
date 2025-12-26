@@ -13,6 +13,7 @@ function App() {
           text-[rgba(255,255,255,0.4)]
           font-semibold
           leading-snug
+          leading-loose
           ">
             Writing <span className="
             text-[#ddfc3e]
