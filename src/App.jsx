@@ -1,4 +1,5 @@
-
+import gsap from "gsap";
+import { useGSAP } from "@gsap/react";
 
 function App() {
 
